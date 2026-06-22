@@ -1,0 +1,5 @@
+English Teacher Platform
+AI-ready multi-tenant platform for English teachers.
+
+Branch strategy:
+main / develop / feature/*
